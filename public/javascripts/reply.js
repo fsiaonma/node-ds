@@ -95,7 +95,7 @@ var saveTask = function(res, user, msg) {
 	res.reply("许愿成功");
 	user.status = Config.UserStatus.NONE;
 }
-
+ 
 //================================================= 愿望
 
 //================================================= 查看愿望
